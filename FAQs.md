@@ -30,3 +30,8 @@ TLS SNI support enabled:w
 ## Does nginx support transparent https proxy?
 
 No, see https://www.zhihu.com/question/19871146.
+
+## How nginx "location if" works
+
+https://agentzh.blogspot.com/2011/03/how-nginx-location-if-works.html
+https://www.nginx.com/resources/wiki/start/topics/depth/ifisevil/
